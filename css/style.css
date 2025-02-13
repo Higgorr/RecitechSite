@@ -9,7 +9,7 @@ body {
     
     color: #333;
     line-height: 1.6;
-    background-image: url('./assets/soft-plaster-texture.jpg');
+    background-image: url('../assets/soft-plaster-texture.jpg');
     animation: moveBackground 20s linear infinite; /* Animação */
 }
 @keyframes moveBackground {
